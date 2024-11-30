@@ -25,7 +25,7 @@
 "thunder_vip_thread_limit":2,
 "thunder_flags":"4kz",
 "aliproxy":"",
-"aliproxy_url":"./aliproxy.tar.xz",
+"aliproxy_url":"./aliproxy.32.gz",
 "proxy":"",
 "danmu":true,
 "quark_danmu":true,
@@ -83,6 +83,5 @@
 "tgsearch_api_session_v1":"",
 "tgsearch_api_proxy":"proxy",
 "tgsearch_api_url":"http://127.0.0.1:10199/",
-"tgsearch_media_url":"http://127.0.0.1:10199/",
-"allinone_url":"./allinone.tar.xz"
+"tgsearch_media_url":"http://127.0.0.1:10199/"
 }
